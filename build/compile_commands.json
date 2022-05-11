@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/anast/MAGA/Архитектура/OS-architecture/build",
+  "command": "/usr/bin/g++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -I/home/anast/MAGA/Архитектура/OS-architecture/build -g -Wall -Wextra -pedantic -Werror -std=gnu++1z -o CMakeFiles/rest_api.dir/main.cpp.o -c /home/anast/MAGA/Архитектура/OS-architecture/main.cpp",
+  "file": "/home/anast/MAGA/Архитектура/OS-architecture/main.cpp"
+},
+{
+  "directory": "/home/anast/MAGA/Архитектура/OS-architecture/build",
+  "command": "/usr/bin/g++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -I/home/anast/MAGA/Архитектура/OS-architecture/build -g -Wall -Wextra -pedantic -Werror -std=gnu++1z -o CMakeFiles/rest_api.dir/config/config.cpp.o -c /home/anast/MAGA/Архитектура/OS-architecture/config/config.cpp",
+  "file": "/home/anast/MAGA/Архитектура/OS-architecture/config/config.cpp"
+},
+{
+  "directory": "/home/anast/MAGA/Архитектура/OS-architecture/build",
+  "command": "/usr/bin/g++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -I/home/anast/MAGA/Архитектура/OS-architecture/build -g -Wall -Wextra -pedantic -Werror -std=gnu++1z -o CMakeFiles/rest_api.dir/database/database.cpp.o -c /home/anast/MAGA/Архитектура/OS-architecture/database/database.cpp",
+  "file": "/home/anast/MAGA/Архитектура/OS-architecture/database/database.cpp"
+},
+{
+  "directory": "/home/anast/MAGA/Архитектура/OS-architecture/build",
+  "command": "/usr/bin/g++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -I/home/anast/MAGA/Архитектура/OS-architecture/build -g -Wall -Wextra -pedantic -Werror -std=gnu++1z -o CMakeFiles/rest_api.dir/database/person.cpp.o -c /home/anast/MAGA/Архитектура/OS-architecture/database/person.cpp",
+  "file": "/home/anast/MAGA/Архитектура/OS-architecture/database/person.cpp"
+},
+{
+  "directory": "/home/anast/MAGA/Архитектура/OS-architecture/build",
+  "command": "/usr/bin/g++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -g -o CMakeFiles/gtests.dir/test.cpp.o -c /home/anast/MAGA/Архитектура/OS-architecture/test.cpp",
+  "file": "/home/anast/MAGA/Архитектура/OS-architecture/test.cpp"
+},
+{
+  "directory": "/home/anast/MAGA/Архитектура/OS-architecture/build",
+  "command": "/usr/bin/g++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -g -o CMakeFiles/gtests.dir/config/config.cpp.o -c /home/anast/MAGA/Архитектура/OS-architecture/config/config.cpp",
+  "file": "/home/anast/MAGA/Архитектура/OS-architecture/config/config.cpp"
+},
+{
+  "directory": "/home/anast/MAGA/Архитектура/OS-architecture/build",
+  "command": "/usr/bin/g++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -g -o CMakeFiles/gtests.dir/database/database.cpp.o -c /home/anast/MAGA/Архитектура/OS-architecture/database/database.cpp",
+  "file": "/home/anast/MAGA/Архитектура/OS-architecture/database/database.cpp"
+},
+{
+  "directory": "/home/anast/MAGA/Архитектура/OS-architecture/build",
+  "command": "/usr/bin/g++ -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -g -o CMakeFiles/gtests.dir/database/person.cpp.o -c /home/anast/MAGA/Архитектура/OS-architecture/database/person.cpp",
+  "file": "/home/anast/MAGA/Архитектура/OS-architecture/database/person.cpp"
+}
+]

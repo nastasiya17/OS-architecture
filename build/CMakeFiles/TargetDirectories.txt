@@ -1,0 +1,11 @@
+/home/anast/MAGA/Архитектура/OS-architecture/build/CMakeFiles/install/strip.dir
+/home/anast/MAGA/Архитектура/OS-architecture/build/CMakeFiles/install.dir
+/home/anast/MAGA/Архитектура/OS-architecture/build/CMakeFiles/list_install_components.dir
+/home/anast/MAGA/Архитектура/OS-architecture/build/CMakeFiles/rebuild_cache.dir
+/home/anast/MAGA/Архитектура/OS-architecture/build/CMakeFiles/install/local.dir
+/home/anast/MAGA/Архитектура/OS-architecture/build/CMakeFiles/test.dir
+/home/anast/MAGA/Архитектура/OS-architecture/build/CMakeFiles/rest_api.dir
+/home/anast/MAGA/Архитектура/OS-architecture/build/CMakeFiles/package.dir
+/home/anast/MAGA/Архитектура/OS-architecture/build/CMakeFiles/package_source.dir
+/home/anast/MAGA/Архитектура/OS-architecture/build/CMakeFiles/gtests.dir
+/home/anast/MAGA/Архитектура/OS-architecture/build/CMakeFiles/edit_cache.dir
