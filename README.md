@@ -3,9 +3,13 @@
 **Создаем БД:**
 
 sudo mysql
+
 mysql> create database Person_base;
+
 mysql> use Person_base;
+
 mysql> source my_commands.sql;
+
 mysql> quit;
 
 **Запросы:**
